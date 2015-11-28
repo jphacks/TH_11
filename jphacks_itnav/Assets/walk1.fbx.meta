@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 48d3b1293fe2d4e8eb95e38f91f14610
+timeCreated: 1448688041
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ashi
+    100004: body
+    100006: Bone
+    100008: Bone.001
+    100010: Bone.002
+    100012: Bone.003
+    100014: Bone.003_end
+    100016: Bone.004
+    100018: Bone.005.L
+    100020: Bone.005.R
+    100022: Bone.006.L
+    100024: Bone.006.L_end
+    100026: Bone.006.R
+    100028: Bone.006.R_end
+    100030: Bone.007.L
+    100032: Bone.007.R
+    100034: Bone.008.L
+    100036: Bone.008.L_end
+    100038: Bone.008.R
+    100040: Bone.008.R_end
+    100042: Camera
+    100044: eyesblack
+    100046: eyeswhite
+    100048: Gopher_freezed01_mqo
+    100050: hana
+    100052: hana1
+    100054: hands
+    100056: Lamp
+    100058: obj2
+    100060: obj3
+    100062: obj4
+    100064: //RootNode
+    400000: Armature
+    400002: ashi
+    400004: body
+    400006: Bone
+    400008: Bone.001
+    400010: Bone.002
+    400012: Bone.003
+    400014: Bone.003_end
+    400016: Bone.004
+    400018: Bone.005.L
+    400020: Bone.005.R
+    400022: Bone.006.L
+    400024: Bone.006.L_end
+    400026: Bone.006.R
+    400028: Bone.006.R_end
+    400030: Bone.007.L
+    400032: Bone.007.R
+    400034: Bone.008.L
+    400036: Bone.008.L_end
+    400038: Bone.008.R
+    400040: Bone.008.R_end
+    400042: Camera
+    400044: eyesblack
+    400046: eyeswhite
+    400048: Gopher_freezed01_mqo
+    400050: hana
+    400052: hana1
+    400054: hands
+    400056: Lamp
+    400058: obj2
+    400060: obj3
+    400062: obj4
+    400064: //RootNode
+    4300000: obj4
+    4300002: obj2
+    4300004: ashi
+    4300006: hands
+    4300008: obj3
+    4300010: hana1
+    4300012: hana
+    4300014: eyesblack
+    4300016: eyeswhite
+    4300018: body
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: ashi
+    13700002: body
+    13700004: eyesblack
+    13700006: eyeswhite
+    13700008: hana
+    13700010: hana1
+    13700012: hands
+    13700014: obj2
+    13700016: obj3
+    13700018: obj4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
