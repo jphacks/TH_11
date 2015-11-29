@@ -47,3 +47,15 @@ Cmd: compileSnippet
   api=0 type=0 insize=938 outsize=8659 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP _DETAIL_MULX2 pd= ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=938 outsize=6 kw=POINT SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP _DETAIL_MULX2 pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=977 outsize=11922 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=977 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=934 outsize=6324 kw=POINT SHADOWS_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4107 outsize=3896 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4107 outsize=6 kw=POINT SHADOWS_OFF pd= ok=1
