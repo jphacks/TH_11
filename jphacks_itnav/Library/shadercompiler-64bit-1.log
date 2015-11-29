@@ -1,51 +1,41 @@
 Base path: /Applications/Unity/Unity.app/Contents
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2034238224
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1923051520
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=1030 outsize=1876 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=7600 outsize=3665 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=0 type=0 insize=982 outsize=13007 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP _PARALLAXMAP pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=7600 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=0 type=1 insize=982 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP _PARALLAXMAP pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=977 outsize=10445 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=0 type=0 insize=938 outsize=7410 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP _PARALLAXMAP pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=977 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=0 type=1 insize=938 outsize=6 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP _PARALLAXMAP pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=934 outsize=6373 kw=POINT SHADOWS_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+  api=0 type=0 insize=1004 outsize=2769 kw=SHADOWS_DEPTH pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+  api=0 type=1 insize=1004 outsize=6 kw=SHADOWS_DEPTH pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=3868 outsize=2208 kw=POINT pd= ok=1
+  api=0 type=0 insize=631 outsize=4593 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=3868 outsize=6 kw=POINT pd= ok=1
+  api=0 type=1 insize=631 outsize=6 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=5352 outsize=4039 kw=POINT pd= ok=1
+  api=0 type=0 insize=794 outsize=2511 kw=SHADOWS_DEPTH pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=5352 outsize=6 kw=POINT pd= ok=1
+  api=0 type=1 insize=794 outsize=6 kw=SHADOWS_DEPTH pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=3592 outsize=1772 kw=POINT pd= ok=1
+  api=0 type=0 insize=619 outsize=4257 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=3592 outsize=6 kw=POINT pd= ok=1
+  api=0 type=1 insize=619 outsize=6 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=4097 outsize=2339 kw=POINT pd= ok=1
+  api=0 type=0 insize=607 outsize=2563 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=4097 outsize=6 kw=POINT pd= ok=1
+  api=0 type=1 insize=607 outsize=6 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=934 outsize=5935 kw=POINT SHADOWS_OFF pd= ok=1
+  api=0 type=0 insize=613 outsize=2802 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF pd= ok=1
+  api=0 type=1 insize=613 outsize=6 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=938 outsize=6336 kw=POINT SHADOWS_OFF _ALPHAPREMULTIPLY_ON pd= ok=1
+  api=0 type=0 insize=1041 outsize=1552 kw= pd= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=938 outsize=6 kw=POINT SHADOWS_OFF _ALPHAPREMULTIPLY_ON pd= ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=5247 outsize=3649 kw=POINT pd= ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=5247 outsize=6 kw=POINT pd= ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=70382 outsize=10640 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=70382 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=0 type=0 insize=7400 outsize=3730 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd= ok=1
-Cmd: compileSnippet
-  api=0 type=1 insize=7400 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd= ok=1
+  api=0 type=1 insize=1041 outsize=6 kw= pd= ok=1
